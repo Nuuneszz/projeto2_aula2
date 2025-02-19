@@ -1,0 +1,10 @@
+body{
+    font-family: verdana;
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    background-color: brown;
+    color: #fff;
+}
